@@ -1,2 +1,7 @@
 # Java-DSA
-This repository contains my daily Java + DSA practice.
+Day 1 - Arrays Practice
+
+- Sorted array check
+- Frequency of elements
+- Remove duplicates
+- Second maximum element
